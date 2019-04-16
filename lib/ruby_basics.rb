@@ -21,10 +21,10 @@ def return_a_value(25)
 puts return_a_value
 end
 
-def last_evaluated_value
+def last_evaluated_value(3)
 puts last_evaluated_value
 end
 
-def pizza_party
+def pizza_party(4)
 puts pizza_party
 end
