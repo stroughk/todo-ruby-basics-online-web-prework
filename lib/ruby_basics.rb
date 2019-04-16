@@ -9,15 +9,15 @@ def assign_variable(value)
   puts value
 end
 
-def argue
+def argue(25)
   puts argue
 end
 
-def greeting
+def greeting(15)
 puts greeting
 end
 
-def return_a_value
+def return_a_value(25)
 print return_a_value.length()
 end
 
