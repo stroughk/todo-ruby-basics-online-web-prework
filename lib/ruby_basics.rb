@@ -18,7 +18,7 @@ puts greeting
 end
 
 def return_a_value(25)
-print return_a_value.length()
+puts return_a_value
 end
 
 def last_evaluated_value
